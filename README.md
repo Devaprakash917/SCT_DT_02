@@ -1,4 +1,5 @@
 📊 Data Cleaning and Preparation Project
+
 This project focuses on cleaning and preprocessing a real-world world development dataset using Python and pandas. The goal is to transform raw, inconsistent data into a structured format suitable for analysis and machine learning.
 🔹 Key Steps Performed
 Data Loading
