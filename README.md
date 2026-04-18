@@ -1,7 +1,9 @@
 📊 Data Cleaning and Preparation Project
 
 This project focuses on cleaning and preprocessing a real-world world development dataset using Python and pandas. The goal is to transform raw, inconsistent data into a structured format suitable for analysis and machine learning.
+
 🔹 Key Steps Performed
+
 Data Loading
 Imported dataset from a CSV file into a DataFrame.
 Initial Exploration
@@ -23,15 +25,21 @@ Numerical features
 Categorical features
 Correlation Analysis
 Generated correlation matrix to understand relationships between variables
+
 🔹 Dataset Overview
+
 Total Rows: 2704
 Total Columns (after cleaning): 22
 Contains economic, demographic, and health-related indicators for multiple countries
+
 🔹 Tools & Technologies
+
 Python
 Pandas
 Google Colab
+
 🔹 Outcome
+
 The dataset is cleaned, structured, and ready for:
 Exploratory Data Analysis (EDA)
 Visualization
